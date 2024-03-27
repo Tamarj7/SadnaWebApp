@@ -18,3 +18,9 @@
         width: fit-content;
         margin: 0 auto; /* Center the heading horizontally within the container */
     }
+
+    .about-page img {
+        max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+        height: auto; /* Maintain aspect ratio */
+        max-height: 200px; /* Set maximum height for the image */
+    }
