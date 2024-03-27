@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SadnaApi", "SadnaApi\SadnaApi.csproj", "{5C1FE4FF-D4E6-4D89-AA6E-8359EE961A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SadnaWebApp", "SadnaWebApp\SadnaWebApp.csproj", "{6CD9B0AA-08F2-47FF-B9E0-6D9A019EF717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedCode", "SharedCode\SharedCode.csproj", "{16C40508-326A-42DC-9BBF-5B6175DEFCB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1FE4FF-D4E6-4D89-AA6E-8359EE961A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1FE4FF-D4E6-4D89-AA6E-8359EE961A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1FE4FF-D4E6-4D89-AA6E-8359EE961A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1FE4FF-D4E6-4D89-AA6E-8359EE961A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD9B0AA-08F2-47FF-B9E0-6D9A019EF717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD9B0AA-08F2-47FF-B9E0-6D9A019EF717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD9B0AA-08F2-47FF-B9E0-6D9A019EF717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD9B0AA-08F2-47FF-B9E0-6D9A019EF717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C40508-326A-42DC-9BBF-5B6175DEFCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C40508-326A-42DC-9BBF-5B6175DEFCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C40508-326A-42DC-9BBF-5B6175DEFCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C40508-326A-42DC-9BBF-5B6175DEFCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DFCD95-F15C-4338-966E-D878C669D48E}
+	EndGlobalSection
+EndGlobal
